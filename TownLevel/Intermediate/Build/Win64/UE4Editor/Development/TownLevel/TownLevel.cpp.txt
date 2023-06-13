@@ -1,0 +1,2 @@
+C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\Definitions.TownLevel.h
+C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Source\TownLevel\TownLevel.h

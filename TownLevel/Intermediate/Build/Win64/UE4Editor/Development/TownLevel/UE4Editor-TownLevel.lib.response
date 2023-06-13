@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TownLevel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\TownLevelEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevel.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevelCharacter.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevelGameMode.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevel.init.gen.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevelCharacter.gen.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\TownLevelGameMode.gen.cpp.obj"
+"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\Default.rc2.res"
+/OUT:"C:\Users\solan\OneDrive\Documents\Unreal Projects\Town-Level\TownLevel\Intermediate\Build\Win64\UE4Editor\Development\TownLevel\UE4Editor-TownLevel.lib"

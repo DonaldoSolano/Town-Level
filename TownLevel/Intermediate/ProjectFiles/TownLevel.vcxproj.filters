@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TownLevel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{091134D8-CCCF-4ED2-AA27-731AC38E4C45}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TownLevel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TownLevelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{322A19AB-50DA-4CF5-87A0-DEE54BBA51EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TownLevel">
+      <UniqueIdentifier>{1997461D-CEB3-4B5C-B600-6F441770F036}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TownLevel\TownLevel.Build.cs">
+      <Filter>Source\TownLevel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TownLevel\TownLevel.cpp">
+      <Filter>Source\TownLevel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TownLevel\TownLevel.h">
+      <Filter>Source\TownLevel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TownLevel\TownLevelCharacter.cpp">
+      <Filter>Source\TownLevel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TownLevel\TownLevelCharacter.h">
+      <Filter>Source\TownLevel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TownLevel\TownLevelGameMode.cpp">
+      <Filter>Source\TownLevel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TownLevel\TownLevelGameMode.h">
+      <Filter>Source\TownLevel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

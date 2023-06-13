@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TownLevel",
+			"Path": "C:\\Users\\solan\\OneDrive\\Documents\\Unreal Projects\\Town-Level\\TownLevel\\Source\\TownLevel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TownLevelEditor",
+			"Path": "C:\\Users\\solan\\OneDrive\\Documents\\Unreal Projects\\Town-Level\\TownLevel\\Source\\TownLevelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

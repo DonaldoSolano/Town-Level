@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TownLevel/Intermediate/CachedAssetRegistry.bin
+TownLevel/Intermediate/Build/Unused/TownLevel.log
+TownLevel/Saved/Config/CrashReportClient/UE4CC-Windows-A26DEC304961C1EA32D357A58F100728/CrashReportClient.ini
+TownLevel/Saved/Logs/TownLevel.log
+TownLevel/Saved/Logs/TownLevel-backup-2023.06.16-03.48.43.log

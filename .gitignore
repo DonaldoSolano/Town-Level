@@ -79,3 +79,7 @@ TownLevel/Saved/Logs/TownLevel.log
 TownLevel/Saved/Logs/TownLevel-backup-2023.06.16-03.48.43.log
 TownLevel/Saved/Config/CrashReportClient/
 TownLevel/Saved/Logs/
+TownLevel/Binaries/Win64/UE4Editor-TownLevel.pdb
+TownLevel/Intermediate/Build/SourceFileCache.bin
+TownLevel/Intermediate/
+TownLevel/Saved/
